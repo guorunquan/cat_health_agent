@@ -14,5 +14,6 @@
 ## 一键运行命令
 ### 1. 克隆仓库（首次使用）
 ```bash
-git clone https://gitee.com/你的用户名/cat_health_agent.git  # 替换成你的仓库地址
+git clone https://gitee.com/guorunquan/cat_health_agent.git  # 替换成你的仓库地址
+
 cd cat_health_agent
